@@ -7,6 +7,8 @@ Score a customer on Recency / Frequency / Monetary and the app returns their pro
 churning in the next 180 days, the segment they belong to, and the retention play for that
 segment — alongside the precision, recall, and campaign size implied by whatever cutoff you pick.
 
+**[Live app →](https://retention-radar-hlntkehvtngtw6lcuyhew6.streamlit.app/)**
+
 ---
 
 ## The problem
